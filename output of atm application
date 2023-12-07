@@ -1,0 +1,104 @@
+  ???Welcome to State Bank Of India???
+Enter your pin Number or 'stop' to exit:
+3333
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu:
+4
+Enter new pin number: 3012
+Confirm your new pin :3012
+Your pin has been updated successfully. Login again
+
+         ???Welcome to State Bank Of India???
+Enter your pin Number or 'stop' to exit:
+3012
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu:
+3
+Current balance = 5000
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu:
+2000
+Invalid choice
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu:
+2
+Enter your withdrawal amount:
+2000
+After deducting 2000, Current balance = 3000
+
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu:
+1
+Enter your deposit amount:
+5000
+Balance: 8000
+
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu:
+1
+Enter your deposit amount:
+50000
+Max limit for deposit is 20k
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu:
+3000
+Invalid choice
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu: 
+
+.
+3
+Current balance = 8000
+ 1. Deposit
+ 2. Withdraw
+ 3. Check Balance
+ 4. Change Pin
+ 5. Exit
+Enter your choice above
+or'continue' to go back to the main menu:
+5
+Exiting...
+
+--------------------------------
+Process exited after 181.7 seconds with return value 0
+P
